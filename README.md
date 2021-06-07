@@ -42,7 +42,7 @@ $ git clone git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
  Link to the deployed application git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
 
 
-Landing page https://sangeethanr.github.io/Horiseon-Social-Solution-Services//
+Landing page https://sangeethanr.github.io/Horiseon-Social-Solution-Services/
 
  Screenschot of how the landing page look like
 ![landing Page image](assets/images/landingPage.png)
