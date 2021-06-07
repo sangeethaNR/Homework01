@@ -36,7 +36,19 @@ $ git clone git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
-You installed the project to your local!!!
+
+ You installed the project to your local!!!
+
+ Link to the deployed application git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
+
+
+Landing page https://sangeethanr.github.io/Horiseon-Social-Solution-Services/
+
+
+ Screenschot of how the landing page look like
+![landing Page image](images/landingPage.png)
+
+ 
 ## Credits
 github.com
 google.com
