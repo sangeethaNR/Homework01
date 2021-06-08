@@ -1,12 +1,18 @@
+/* Universal Selector */
+
 * {
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
 }
 
+/* body */
+
 body {
 	background-color: #d9dcd6;
 }
+
+/* Semantic element Header */
 
 .header {
 	padding: 20px;
@@ -40,11 +46,14 @@ body {
 	display: inline-block;
 	margin-left: 25px;
 }
+/* Links */
 
 a {
 	color: #ffffff;
 	text-decoration: none;
 }
+
+/* Image */
 
 .hero {
 	height: 800px;
@@ -55,11 +64,15 @@ a {
 	background-position: center;
 }
 
+/* Semantic Main */
+
 .content {
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
 }
+
+/* Semantic figure element */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -72,12 +85,15 @@ a {
 	color: #ffffff;
 }
 
+/* Image tag*/
+
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
 	max-height: 200px;
 }
 
+/* Image class to float */
 .float-left {
 	float: left;
 	margin-right: 25px;
@@ -87,6 +103,8 @@ a {
 	float: right;
 	margin-left: 25px;
 }
+
+/* Section header */
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
@@ -98,6 +116,8 @@ a {
 p {
 	font-size: 16px;
 }
+
+/* semantic sidebar */
 
 .benefits {
 	margin-right: 20px;
@@ -132,6 +152,7 @@ p {
 	max-width: 150px;
 }
 
+/* footer */
 .footer {
 	padding: 30px;
 	clear: both;

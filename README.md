@@ -1,4 +1,6 @@
+
 #Horiseon-Social-Solution-Services
+
 ## Description
 The wesite has 3 main components
 
@@ -14,7 +16,19 @@ The wesite has 3 main components
    Social media marketing is the use of social media platforms and websites to promote a product or service.
    Horiseon-Social-Solution-Servicesprovides companies with a way to engage with existing customers and reach new ones while allowing them to promote their desired culture, mission, or tone.
 
-## Installation
+## Features
+
+1. Semantic HTML Structure  : The generic HTML elements used in this project  are replaced with  semantic elements, which clearly describes its meaning both the developer and the browser.
+
+2. Description for an image tag  included :  Added "alt" attributes to  <img> tag for better understanding of an image,if the image cannot be displayed.
+
+3. Modified heading tag in sqential order : The heading tag included follows the sequential order.
+
+4. Descriptive title added :  <title> tag is added and a descriptive title is given .
+
+5. Organizd CSS selectors : CSS selectors and properties are consolidated and organized to follow semantic structure.
+
+ ## Installation
 On GitHub, navigate to the main page of the repository.
 
 Above the list of files, click  Code.
@@ -42,7 +56,7 @@ $ git clone git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
  Link to the deployed application git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
 
 
-Landing page https://sangeethanr.github.io/Horiseon-Social-Solution-Services//
+Landing page https://sangeethanr.github.io/Horiseon-Social-Solution-Services/
 
  Screenschot of how the landing page look like
 ![landing Page image](assets/images/landingPage.png)
