@@ -53,7 +53,7 @@ $ git clone git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
 
  You installed the project to your local!!!
 
- Link to the deployed application git@github.com:sangeethaNR/Horiseon-Social-Solution-Services.git
+ Link to the deployed application https://github.com/sangeethaNR/Horiseon-Social-Solution-Services.git
 
 
 Landing page https://sangeethanr.github.io/Horiseon-Social-Solution-Services/
